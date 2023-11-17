@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Jude Bellingham",
+        "position": "Midfielder",
+        "nationality": "England",
+        "age": 20,
+        "team": "Real Madrid",
+        "poster": "https://i.postimg.cc/d17zxTtx/bellingham.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Lucas Vazquez",
+        "position": "Defender",
+        "nationality": "Spain",
+        "age": 32,
+        "team": "Real Madrid",
+        "poster": "https://i.postimg.cc/Nf01q7wF/vasquez.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Luka Modric",
+        "position": "Midfielder",
+        "nationality": "Croatia",
+        "age": 38,
+        "team": "Real Madrid",
+        "poster": "https://i.postimg.cc/ht1zXXn6/modric.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Vinicius Jr.",
+        "position": "Forward",
+        "nationality": "Brazil",
+        "age": 23,
+        "team": "Real Madrid",
+        "poster": "https://i.postimg.cc/T1sSq26X/vini.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Eduardo Camavinga",
+        "position": "Midfielder",
+        "nationality": "France",
+        "age": 21,
+        "team": "Real Madrid",
+        "poster": "https://i.postimg.cc/633Yjsz6/camavinga.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Thibaut Courtois",
+        "position": "Goalkeeper",
+        "nationality": "Belgium",
+        "age": 31,
+        "team": "Real Madrid",
+        "poster": "https://i.postimg.cc/DyVRZZBq/Courtouis.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Daniel Carvajal",
+        "position": "Defender",
+        "nationality": "Spain",
+        "age": 31,
+        "team": "Real Madrid",
+        "poster": "https://i.postimg.cc/BnmhxQc7/carvajal.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Ferland Mendy",
+        "position": "Defender",
+        "nationality": "France",
+        "age": 28,
+        "team": "Real Madrid",
+        "poster": "https://i.postimg.cc/ydZv4hq2/mendy.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Federico Valverde",
+        "position": "Midfielder",
+        "nationality": "Uruguay",
+        "age": 25,
+        "team": "Real Madrid",
+        "poster": "https://i.postimg.cc/wBtkL5B3/valverde.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Toni Kroos",
+        "position": "Midfielder",
+        "nationality": "Germany",
+        "age": 33,
+        "team": "Real Madrid",
+        "poster": "https://i.postimg.cc/y8xhChcn/kroos.jpg"
+    }
+]
